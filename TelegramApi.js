@@ -1,7 +1,7 @@
 import request from "node-fetch";
 export class TelegramApi {
 
-    static users = [1245474530];
+    static users = [];
     static index = 0;
     static _token = "5458242376:AAEP52WVsg8f4u2yDZWfVoZajIcJZmGrN44";
     static _pool = ["https://vsegda-pomnim.com/uploads/posts/2022-04/1649566296_51-vsegda-pomnim-com-p-derevo-roda-foto-53.jpg",
