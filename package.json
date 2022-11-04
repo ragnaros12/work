@@ -1,0 +1,19 @@
+{
+  "name": "untitled13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.10",
+    "npmjs-api": "^1.0.3",
+    "pureimage": "^0.3.14"
+  }
+}
